@@ -4,7 +4,7 @@
 
 ### Patch Changes
 
-- Updated dependencies [d90f4a5]
+- Updated dependencies [49d7109]
   - @intl-ai/unplugin@0.4.0
 
 ## 0.0.2
